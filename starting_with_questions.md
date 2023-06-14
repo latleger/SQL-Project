@@ -65,6 +65,19 @@ LIMIT 10;
 
 <b>Answer:</b> Visitors in Columbus, USA and Madrid, Spain buy an average of one item.
 
+| city           | country        | product_quantity |
+|----------------|----------------|------------------|
+| Madrid         | Spain          | 1                |
+| Columbus       | United States  | 1                |
+| France         | France         | 0                |
+| (not set)      | (not set)      | 0                |
+| Mexico City    | Mexico         | 0                |
+| Poland         | Poland         | 0                |
+| Hayward        | United States  | 0                |
+| Latvia         | Latvia         | 0                |
+| United Kingdom | United Kingdom | 0                |
+| Stanford       | United States  | 0                |
+
 
 
 
