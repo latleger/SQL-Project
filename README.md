@@ -10,13 +10,15 @@ Is there a relationship between revenues and various cities/countries? Is there 
 1. Review and understand data
 	- I started comparing column information from the various tables
 	- I reviewed data types, to see if they make sense.
-	- I reviewed project questions to ensure I focused on cleaning important informaiton first.
+	- I reviewed project questions to ensure I focused on cleaning important information first.
+
 	
 2. Clean and transform Data 
 	- I looked for NULL values and decided if they should be removed or converted.
 	- I found duplicate values and decided if they should be removed.
-	- I checked if columns were formated with correct data types.
-	- I formated data within columns, ie. prices had two decimal points, cities and countries has proper capitalization, 	etc. 
+	- I checked if columns were formatted with correct data types.
+	- I formatted data within columns, ie. prices had two decimal points, cities and countries has proper capitalization, 	etc. 
+
 
 3. Develop insights
 	- Because there was so much information, I focused on the questions required. 
@@ -28,8 +30,8 @@ Is there a relationship between revenues and various cities/countries? Is there 
 	- ensure duplicates have been removed to ensure incorrect analysis
 
 ## Results
-	- Custoemrs are primarily within the United States.
-	- Custoemr are mostly purchasing NEST Smarthome products.
+	- Customers are primarily within the United States.
+	- Customers are mostly purchasing NEST Smart Home products.
 	- Product stock levels are dependant on lead times or quantities sold.
 
 ## Challenges 
@@ -39,5 +41,6 @@ Is there a relationship between revenues and various cities/countries? Is there 
 	- However, I was able to focus on smaller portions of the database to get a better understanding of the data.
 
 ## Future Goals
-	- If I had more time and someone who could help me with relevance of some of the data, I woudld have had a better 	understanding and been able to tackle the infomation in a more logical manner.
+	- If I had more time and someone who could help me with relevance of some of the data, I would have had a better 	understanding and been able to tackle the information in a more logical manner.
+
 	
